@@ -1,0 +1,8 @@
+{
+  "name": "Satyameva Jayate: Royal Investigation System",
+  "description": "A prestigious forensic analysis platform themed with the State Emblem of India, featuring navy and royal aesthetics for advanced investigations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
